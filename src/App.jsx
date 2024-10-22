@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
 import Marquee from "./components/Marquee";
 import About from "./components/About";
-import Eyes from "./components/Eyes";
+import Eyes from "./components/picture";
 import Featured from "./components/Featured";
 import Footer from "./components/Footer";
 import LocomotiveScroll from "locomotive-scroll";
