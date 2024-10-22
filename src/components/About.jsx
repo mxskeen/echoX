@@ -23,7 +23,7 @@ function About() {
 
 At EchoX, we believe in the power of simplicity and impact. Our approach blends creative innovation with a minimalistic aesthetic, ensuring that every design resonates with clarity and purpose. We focus on crafting unique visual identities that echo the essence of our clients' vision, using bold elements and sleek, modern design. Whether it's branding, digital art, or visual storytelling, our goal is to deliver work that not only stands out but also connects on a deeper level with its audience.
             </p>
-            <div className="rounded-full flex gap-2 justify-center mt-4 w-fit bg-[#004D43] text-zinc-100 px-10 py-3 text-sm tracking-wider uppercase">
+            <div className="rounded-full flex gap-2 justify-center mt-4 w-fit bg-[#004D43] text-zinc-100 px-10 py-3 text-sm tracking-wider">
               Read more
               <FaArrowUpLong className="rotate-45 origin-center translate-y-[2px]" />
             </div>
