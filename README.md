@@ -2,4 +2,4 @@
 
 A modern landing page design for an agency website built with React.js and other modern technologies.
 
-Project Live Link: https://echo-x-3jov.vercel.app/
+Project Live Link: https://echox-page.vercel.app/
