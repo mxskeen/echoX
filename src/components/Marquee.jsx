@@ -9,7 +9,7 @@ function Marquee() {
       data-scroll-speed="-0.1"
       className="w-full py-8 rounded-t-3xl bg-black"
     >
-      <div className="text text-[20vw] leading-none uppercase border-t-[1px] border-b-[1px] border-zinc-400 flex whitespace-nowrap overflow-hidden">
+      <div className="text text-[20vw] leading-none border-t-[1px] border-b-[1px] border-zinc-400 flex whitespace-nowrap overflow-hidden">
         <motion.h1
           initial={{ x: 0 }}
           animate={{ x: "-100%" }}
