@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function Eyes() {
+function picture() {
   const [isHovering, setIsHovering] = useState(false);
 
   const handleMouseEnter = () => {
@@ -13,7 +13,7 @@ function Eyes() {
 
   return (
     <div
-      className="eyes w-full h-[300px] md:h-[800px] overflow-hidden relative"
+      className="picture w-full h-[300px] md:h-[800px] overflow-hidden relative"
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >
@@ -33,4 +33,4 @@ function Eyes() {
   );
 }
 
-export default Eyes;
+export default picture;
