@@ -7,7 +7,7 @@ function Footer() {
       <div className="container md:flex-row flex flex-col py-10">
         <div className="md:w-1/2 w-full flex flex-col gap-10 justify-between">
           <h1 className="font-FoundersGroteskCondensed uppercase text-6xl">
-            Name - Maskeen Singh <br /> Er No :- 1203120122
+            Name - Maskeen Singh <br />
           </h1>
         </div>
         <div className="md:w-1/2 w-full flex flex-col justify-between gap-5">
